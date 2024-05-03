@@ -1,5 +1,5 @@
 # Loan Credit Evaluation
-The purpose of this repository was to practice ensemble and Resampling techniques to classify the loan status of potential borrowers as "high-ris", or "low-risk".
+The purpose of this repository was to practice ensemble and Resampling techniques to classify the loan status of potential borrowers as "high-risk", or "low-risk".
 
 We use Naive Random Oversampling, SMOTE oversampling, Cluster Centroid undersampling, and SMOTEEN combination sampling to make predictions on lending data.
 
